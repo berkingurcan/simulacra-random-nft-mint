@@ -2,6 +2,7 @@
   text-align: center;
 }
 
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -27,6 +28,42 @@
 .App-link {
   color: #61dafb;
 }
+
+img {
+  display: block;
+}
+
+.container {
+  margin: auto;
+  width: 100%;
+  max-width: 840px;
+}
+
+.container .minted {
+  width: 300px;
+  height: 300px;
+  margin: 10px auto;
+}
+
+.container .imgContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 30px 0 0 0;
+}
+
+.container Button{
+  margin-top: 20px ;
+}
+
+.container .imgContainer img {
+  width: 200px;
+  height: 200px;
+  margin: 5px 0;
+  border: #282c34 solid;
+}
+
 
 @keyframes App-logo-spin {
   from {
