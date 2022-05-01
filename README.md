@@ -1,4 +1,4 @@
-<h1>Random NFT Minter Dapp</h1>
+<h1>Pseudo Random NFT Minter Dapp</h1>
 <img width="1440" alt="Screen Shot 2022-01-25 at 10 22 58" src="https://user-images.githubusercontent.com/70534820/150929985-90082b86-b1d8-4d94-8f12-3b7972577562.png">
 
 # Getting Started with Create React App
